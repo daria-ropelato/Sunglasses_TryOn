@@ -20,20 +20,20 @@ A Python-based virtual try-on project that leverages computer vision and machine
   
 **Output**: Real-time overlay of virtual sunglasses.
 
-## Project Features
+## 🪄  Project Features
 
 - Real-time detection of facial landmarks.
 - Dynamic resizing and placement of sunglasses based on face proportions.
 - Compatibility with webcam input for live try-on functionality.
 
-## Takeaways
+## 🪄 Takeaways
 
 - Facial Landmarking: Learn how to use MediaPipe for detecting key points on a face.
 - Image Processing: Use OpenCV and Pillow for image manipulation and compositing.
 - Augmented Reality Basics: Implement AR-style overlays with transparency.
 - Cross-Platform Development: Explore implementation options for desktop and web.
 
-## Where It's Applicable
+## 🪄 Where It's Applicable
 
 - Virtual try-on for eyewear or other accessories.
 - Augmented reality features in e-commerce or retail apps.
