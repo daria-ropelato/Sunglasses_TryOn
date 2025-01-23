@@ -2,7 +2,7 @@
 
 A Python-based virtual try-on project that leverages computer vision and machine learning to overlay sunglasses onto a live webcam feed. This project demonstrates the integration of cutting-edge technologies like MediaPipe, OpenCV, and Pillow for real-time facial landmark detection and augmented reality (AR) effects.
 
-## 🪄 Technoligies
+## 🪄 Technologies
 
 - Python: Core programming language.
 - OpenCV: For webcam feed capture and image processing.
