@@ -43,3 +43,7 @@ A Python-based virtual try-on project that leverages computer vision and machine
 ## 🪄 Preview
 [![Watch the video](https://github.com/daria-ropelato/Sunglasses_TryOn/blob/main/Sunglasses_Try_On_Demo.mov)](github.com/daria-ropelato/Sunglasses_TryOn/blob/main/Sunglasses_Try_On_Demo.mov)
 
+
+
+https://github.com/user-attachments/assets/026860f3-fb54-4abe-b6f4-5d6a423072ea
+
