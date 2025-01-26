@@ -1,6 +1,3 @@
-import os
-os.chdir('/Users/dariaropelato/GitHub/Sunglasses_TryOn/')
-
 import cv2
 import mediapipe as mp
 from PIL import Image
